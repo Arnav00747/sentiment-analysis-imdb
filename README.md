@@ -34,5 +34,5 @@ This project uses Natural Language Processing (NLP) and Machine Learning to clas
 Achieved ~88% accuracy on test data
 
 ##  Example
-review = "This movie was really boring and slow"
-# Output: Sentiment: negative
+review = "This movie was just awesome and full of emotions!"
+Output: Sentiment:POSITIVE
