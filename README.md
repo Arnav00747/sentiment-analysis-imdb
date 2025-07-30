@@ -2,7 +2,7 @@
 
 This project uses Natural Language Processing (NLP) and Machine Learning to classify IMDb movie reviews as **Positive** or **Negative**.
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 - Python
 - Pandas, NumPy
 - NLTK (stopwords)
@@ -30,7 +30,7 @@ This project uses Natural Language Processing (NLP) and Machine Learning to clas
 5. Accuracy & performance metrics
 6. Real-time sentiment prediction
 
-## 📈 Accuracy
+##  Accuracy
 Achieved ~88% accuracy on test data
 
 ##  Example
