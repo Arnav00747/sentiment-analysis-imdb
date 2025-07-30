@@ -35,4 +35,5 @@ Achieved ~88% accuracy on test data
 
 ##  Example
 review = "This movie was just awesome and full of emotions!"
-Output: Sentiment:POSITIVE
+
+OUTPUT: Sentiment:POSITIVE
